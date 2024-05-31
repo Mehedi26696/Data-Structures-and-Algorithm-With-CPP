@@ -1,0 +1,28 @@
+// WAP to make a calculator that can perform add,subtract,multiply,devide beetween two inputs
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    float a, b;
+    char op;
+    cin >> a >> op >> b;
+    if (op == '+')
+    {
+        cout << a + b;
+    }
+    else if (op == '-')
+    {
+        cout << a - b;
+    }
+    else if (op == '*')
+    {
+        cout << a * b;
+    }
+    else if (op == '/')
+    {
+        cout << a / b;
+    }
+
+    return 0;
+}
