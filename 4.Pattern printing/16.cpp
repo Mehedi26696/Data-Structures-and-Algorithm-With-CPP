@@ -2,7 +2,7 @@
  1
  0 0
  1 1 1
- 1 1 1 1
+ 0 0 0 0
 
  row odd start 1
  row even start 0
