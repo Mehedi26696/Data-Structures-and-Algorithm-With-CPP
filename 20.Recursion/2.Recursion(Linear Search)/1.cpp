@@ -1,4 +1,6 @@
 //Linear search
+//Time complexity-> O(n) n-> size of array
+//Space Complexity ->O(1)
 
 #include<bits/stdc++.h>
 using namespace std;
