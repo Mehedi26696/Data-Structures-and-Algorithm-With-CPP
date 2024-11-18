@@ -79,12 +79,6 @@ int main(){
     }
     head = reverse(head, k);
     print(head);
-    return 0;
-
-
-
-
-
-    
+    return 0;  
 }
  
