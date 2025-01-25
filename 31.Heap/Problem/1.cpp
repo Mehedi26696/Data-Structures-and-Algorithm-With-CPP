@@ -67,8 +67,8 @@ int main()
 
     int k;
     cin >> k;
-    cout<<"First way to finding kth smallest" << kthSmallest(arr, n, k)<<endl;
-    cout<<"Second way to finding kth smallest" << ksmallest(arr, n, k)<<endl;
+    cout<<"First way to finding kth smallest :" << kthSmallest(arr, n, k)<<endl;
+    cout<<"Second way to finding kth smallest:" << ksmallest(arr, n, k)<<endl;
     return 0;
 }
 
